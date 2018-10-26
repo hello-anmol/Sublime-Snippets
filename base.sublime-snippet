@@ -1,7 +1,6 @@
 <snippet>
 	<content><![CDATA[
 #include <bits/stdc++.h>
-
 #define ll          long long
 #define pb          push_back
 #define pii         pair<int,int>
